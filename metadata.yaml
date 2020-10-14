@@ -1,5 +1,8 @@
 _repo: Valperga-Volume-3-of-3-or-The-life-and-adventures-of-Castruccio-prince-of-Lucca_63339
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63339-h/images/valperga03_cover.jpg
 creator:
   author:
     agent_name: Shelley, Mary Wollstonecraft
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63339#Valperga-Volume-3-of-3-or-The-life-and-adventures-of-Castruccio-prince-of-Lucca
 gutenberg_issued: '2020-09-29'
 gutenberg_type: Text
 identifiers:
